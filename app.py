@@ -15,7 +15,7 @@ from rag.retriever import create_vector_store, retrieve
 load_dotenv()
 st.set_page_config(page_title="Ask Your PDF", page_icon="📄")
 st.title("Ask Your PDF")
-st.caption("Minimal RAG for Software Engineers · by Amal Chaitanya")
+st.caption("Simple RAG · Author: Amal Chaitanya")
 st.markdown("Upload a PDF, ask a question, and inspect the pages behind the answer.")
 
 with st.sidebar:

@@ -60,6 +60,6 @@ Slide text:
 
 Build a minimal PDF RAG app with Python, LangChain, FAISS, OpenAI, and Streamlit. Learn ingestion, chunking, embeddings, similarity search, generation, and source citations.
 
-Code: https://github.com/chaitanya9494/rag-for-software-engineers
+Code: https://github.com/chaitanya9494/simple-rag
 
 This is a local educational demo. API usage can incur charges. Use fictional or approved documents because extracted text is sent to the model provider.

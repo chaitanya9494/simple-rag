@@ -1,8 +1,10 @@
-# RAG for Software Engineers
+# Simple RAG
 
 **Ask Your PDF** — a minimal Retrieval-Augmented Generation application showing how document ingestion, embeddings, retrieval, and LLM generation work together.
 
-Built for the accompanying YouTube tutorial by **Amal Chaitanya**. Start with one concept: PDF → chunks → embeddings → vector search → LLM → answer + sources.
+**Author:** Amal Chaitanya
+
+Start with one concept: PDF → chunks → embeddings → vector search → LLM → answer + sources.
 
 ## What you can do
 
@@ -35,8 +37,8 @@ Indexing runs once per PDF per browser session. Asking another question reuses t
 Requires **Python 3.11 or 3.12** and an OpenAI API key with access to the configured models. API calls require network access and may incur charges.
 
 ```bash
-git clone https://github.com/chaitanya9494/rag-for-software-engineers.git
-cd rag-for-software-engineers
+git clone https://github.com/chaitanya9494/simple-rag.git
+cd simple-rag
 python -m venv .venv
 ```
 

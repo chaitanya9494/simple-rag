@@ -6,7 +6,7 @@ from reportlab.pdfgen import canvas
 
 PAGES = [
     ("Acme Software: Customer Policy", [
-        "Fictional sample document for the RAG for Software Engineers tutorial.",
+        "Fictional sample document for Simple RAG.",
         "Acme Software sells developer productivity subscriptions.",
         "This document describes billing, refunds, and customer support.",
         "These policies are invented for teaching and are not legal advice.",
